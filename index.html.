@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Business Growth Services</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0a1a3f;
+      color: #fff;
+    }
+    header {
+      background-color: #0a1a3f;
+      text-align: center;
+      padding: 60px 20px;
+      border-bottom: 5px solid gold;
+    }
+    header h1 {
+      font-size: 2.5em;
+      color: gold;
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+    .cta {
+      background-color: gold;
+      color: #0a1a3f;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section h2 {
+      color: gold;
+      margin-bottom: 20px;
+    }
+    .services {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+    .service {
+      background-color: #132b5c;
+      padding: 20px;
+      border-radius: 8px;
+      width: 250px;
+    }
+    footer {
+      background-color: #0a1a3f;
+      text-align: center;
+      padding: 20px;
+      border-top: 5px solid gold;
+    }
+    footer p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Take Your Business Online to New Heights</h1>
+    <p>Free Consultation | Free Ads | Proven Growth Results</p>
+    <a href="tel:8460797553" class="cta">Call Now: +91 84607 97553</a>
+  </header>
+
+  <section>
+    <h2>Our Services</h2>
+    <div class="services">
+      <div class="service">Social Media Marketing</div>
+      <div class="service">SEO Optimization</div>
+      <div class="service">Website Development</div>
+      <div class="service">Branding Solutions</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Why Choose Us</h2>
+    <p>✔ Free Consultation</p>
+    <p>✔ Free Ad Campaigns</p>
+    <p>✔ Measurable Growth Results</p>
+    <p>✔ Expert Team with Proven Strategies</p>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>Phone: <a href="tel:8460797553" style="color:gold;">+91 84607 97553</a></p>
+    <p>Email: info@businessgrowth.com</p>
+    <p>Get Your Free Consultation Today!</p>
+  </section>
+
+  <footer>
+    <p>Your Growth Partner Online</p>
+    <p>© 2026 Business Growth Services</p>
+  </footer>
+
+</body>
+</html>
